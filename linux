@@ -1,0 +1,5 @@
+pwd
+ls -l
+echo "hello world"
+mkdir tamilnadu
+touch salem
